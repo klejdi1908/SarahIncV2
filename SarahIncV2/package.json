@@ -57,7 +57,7 @@
     "datatables.net-responsive-bs4": "^2.2.3",
     "datatables.net-select-bs4": "^1.2.7",
     "flatpickr": "^4.5.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "moment": "^2.22.2",
     "numeral": "^2.0.6",
     "pdfmake": "^0.1.37",
